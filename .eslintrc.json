@@ -1,0 +1,16 @@
+// {
+//     "plugins": [
+//         "node"
+//     ],
+//     "extends": "eslint:recommended",
+//     "env": {
+//         "node": true,
+//         "jest": true
+//     },
+//     "ignorePatterns": [".eslintrc.js"],
+//     "rules": {
+//         "semi": ["error", "always"],
+//         "quotes": ["error", "double"]
+//     }
+
+// }
